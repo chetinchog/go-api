@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main {
-  fmt.Println("GO API")
+func main() {
+	fmt.Println("GO API")
 }
